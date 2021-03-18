@@ -18,11 +18,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <BgPatternTop />
         <CardContainer>
           <Card />
         </CardContainer>
-        <BgPatternBottom />
       </main>
     </div>
   );
